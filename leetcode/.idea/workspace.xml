@@ -2,10 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dfcc629-396a-4517-8490-b025bcd3b154" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/string/GreatestCommonDivisorString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/array/NonDecreasingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/array/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/first20Page/CountNegativeNumbersSortedMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/first20Page/DecompressRunLengthEncodedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/first20Page/DefangingIPAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/first20Page/FindAnagramMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/first20Page/FindNumbersWithEvenNumberOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/first20Page/JewelsAndStones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/first20Page/Maximum69Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/first20Page/NumberOfStepsReduceToZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/first20Page/SingleRowKeyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/first20Page/SubstractProductAndSumDigitsInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/string/AddStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/string/FirstUniqueCharacterString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/string/StringCompression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/string/GreatestCommonDivisorString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/string/GreatestCommonDivisorString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/leetcode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/search/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/udemy/search/BinarySearch.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +38,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1Y2ILgHRNoivrYZtz9Weztgui52" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -39,13 +56,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.BinarySearch">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.udemy.search.BinarySearch" />
+  <component name="RunManager" selected="Application.Maximum69Number">
+    <configuration name="DecompressRunLengthEncodedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.first20Page.DecompressRunLengthEncodedList" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.udemy.search.*" />
+          <option name="PATTERN" value="com.leetcode.first20Page.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImplementArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.udemy.array.ImplementArray" />
+    <configuration name="DefangingIPAddress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.first20Page.DefangingIPAddress" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.udemy.array.*" />
+          <option name="PATTERN" value="com.leetcode.first20Page.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.string.Main" />
+    <configuration name="FindAnagramMapping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.first20Page.FindAnagramMapping" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.string.*" />
+          <option name="PATTERN" value="com.leetcode.first20Page.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.array.Main" />
+    <configuration name="Maximum69Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.first20Page.Maximum69Number" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.array.*" />
+          <option name="PATTERN" value="com.leetcode.first20Page.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,25 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveAllDublicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.string.RemoveAllDublicates" />
+    <configuration name="NumberOfStepsReduceToZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.first20Page.NumberOfStepsReduceToZero" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.string.ReverseString" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.string.*" />
+          <option name="PATTERN" value="com.leetcode.first20Page.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.RemoveAllDublicates" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.ImplementArray" />
+        <item itemvalue="Application.Maximum69Number" />
+        <item itemvalue="Application.FindAnagramMapping" />
+        <item itemvalue="Application.DecompressRunLengthEncodedList" />
+        <item itemvalue="Application.DefangingIPAddress" />
+        <item itemvalue="Application.NumberOfStepsReduceToZero" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +158,9 @@
       <workItem from="1582308708174" duration="6927000" />
       <workItem from="1582354161985" duration="31252000" />
       <workItem from="1582448249867" duration="26137000" />
-      <workItem from="1582483336107" duration="764000" />
+      <workItem from="1582483336107" duration="5599000" />
+      <workItem from="1582567668108" duration="12713000" />
+      <workItem from="1582607426531" duration="7366000" />
     </task>
     <servers />
   </component>
@@ -174,37 +180,37 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/-1920.-170.1920.1040@0.0.1366.728" timestamp="1582142066611" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1582473053367">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1582615540640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-170.1920.1040@0.0.1366.728" timestamp="1582473053367" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1582473053367">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-170.1920.1040@0.0.1366.728" timestamp="1582615540640" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1582615540640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-170.1920.1040@0.0.1366.728" timestamp="1582473053367" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1582473053367">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-170.1920.1040@0.0.1366.728" timestamp="1582615540640" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1582615540640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-170.1920.1040@0.0.1366.728" timestamp="1582473053367" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1582473053367">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-170.1920.1040@0.0.1366.728" timestamp="1582615540640" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1582615540640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-170.1920.1040@0.0.1366.728" timestamp="1582473053367" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-170.1920.1040@0.0.1366.728" timestamp="1582615540640" />
     <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1582148983864">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="20" key="Maven.ArtifactSearchDialog/0.0.1366.728/-1920.-170.1920.1040@0.0.1366.728" timestamp="1582148983864" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1582448278549">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1582607485344">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-170.1920.1040@0.0.1366.728" timestamp="1582448278548" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-170.1920.1040@0.0.1366.728" timestamp="1582607485344" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1582365796454">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728/-1920.-170.1920.1040@0.0.1366.728" timestamp="1582365796454" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1582465910438">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1582489289164">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1920.-170.1920.1040@0.0.1366.728" timestamp="1582465910438" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1920.-170.1920.1040@0.0.1366.728" timestamp="1582489289164" />
   </component>
 </project>
